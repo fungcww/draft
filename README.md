@@ -1,1 +1,1 @@
-# draft
+EventInitialDateTime,EventStatus,Medium,Initiator,customerid,Event Category,Event Type,Event Type Detail,PolicyAccountNo,PolicyType,ProductName,Policy status,RCD,CSR,EventNotes,ReminderNotes,alertnotes,Service Agent,Agent Code,LocationCode,FCR,MCV,Suggestions/Grievances,eStatement,ServiceEventNumber,Tab Enquiry Number,EventCategoryCode,EventTypeCode,EventTypeDetailCode,EventReasonCode,EventAlternativeCode,Tab Event Category,Tab Event Type,Tab Event Type Detail,Tab Event Reason,Tab Event Alternative
